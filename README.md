@@ -1,2 +1,2 @@
 # hello-class
-You already know what's going on.
+Oh yeah, I totally know what I'm doing!
